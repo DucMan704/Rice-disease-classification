@@ -1,0 +1,9 @@
+# All of these ship pre-installed on Kaggle's GPU notebook image.
+# This file exists so the project is reproducible outside Kaggle too
+# (run_all.py auto-installs anything missing).
+tensorflow>=2.13
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow

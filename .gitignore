@@ -1,0 +1,8 @@
+outputs/
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.keras
+*.h5
+.DS_Store
